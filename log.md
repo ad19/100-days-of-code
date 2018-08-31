@@ -10,7 +10,7 @@
 
 ### Day 1: August 27, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Got acquanited with JuliaBox. Learned some code for operations on complex numbers.
 
 **Thoughts**: 
 
@@ -18,7 +18,7 @@
 
 ### Day 2: August 28, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: More operations on complex numbers in Julia. Plotting next.
 
 **Thoughts**: 
 
