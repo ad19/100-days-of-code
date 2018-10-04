@@ -2,7 +2,7 @@
 
 ### Day 1: October 4, 2018
 
-**Today's Progress**: Starting again. My fourth attempt at the challenge. Today, Day 1, first I installed Julia 1.0.1 on CentOS.
+**Today's Progress**: Starting the challenge again. My fourth attempt at the challenge. Today, Day 1, first I installed Julia 1.0.1 on CentOS. Then installed iJulia, a Julia-language backend combined with the interactive Jupyter.
 
 **Thoughts:** 
 
