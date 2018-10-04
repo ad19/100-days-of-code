@@ -2,7 +2,7 @@
 
 ### Day 1: October 4, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Starting again. My fourth attempt at the challenge. Today, Day 1, first I installed Julia 1.0.1 on CentOS.
 
 **Thoughts:** 
 
